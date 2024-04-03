@@ -141,3 +141,8 @@ textarea:not([rows]) {
   scroll-margin-block: 5ex;
 }
 /* reset end */
+
+body {
+  max-height: 100vh;
+  background-image: url('../imges/background.png');
+}
