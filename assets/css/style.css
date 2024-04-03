@@ -17,3 +17,42 @@
     font-family: 'OpenSans-SemiBold';
     src: url('../fonts/OpenSans-SemiBold.ttf') format('woff2');
 }
+
+:root {
+    --primary-primaryColor: hsl(247, 51%, 51%);
+    --primary-danger: hsl(359, 100%, 65%);
+    --primary-black: hsl(217, 30%, 17%);
+    --primary-muted: hsl(217, 9%, 61%);
+    --primary-titan-white: hsl(240, 100%, 98%);
+    --primary-black-squeeze: hsl(198, 50%, 96%);
+    --primary-white: hsl(0, 0, 100%);
+
+    --red-500: hsl(359, 100%, 65%);
+    --red-400: hsl(359, 100%, 79%);
+    --red-300: hsl(359, 100%, 89%);
+    --red-200: hsl(0, 100%, 96%);
+
+    --indigo-600: hsl(247, 48%, 44%);
+    --indigo-500: hsl(247, 51%, 51%);
+
+    --gray-200: hsl(0, 0%, 83%);
+    --gray-100: hsl(0, 0%, 96%);
+
+    --font-size-36: 2.25rem;
+    --font-size-24: 1.5rem;
+    --font-size-20: 1.25rem;
+    --font-size-16: 1rem;
+    --font-size-12: 0.75rem;
+
+    --font-h1: 4.5rem;
+    --font-h2: 3rem;
+    --font-h3: 2.25rem;
+    --font-h4: 1.5rem;
+    --font-h5: 1.25rem;
+    --font-h6: 1rem;
+
+    --fontfamily-OpenSans-Bold: OpenSans-Bold;
+    --fontfamily-OpenSans-ExtraBold: OpenSans-ExtraBold;
+    --fontfamily-OpenSans-Regular: OpenSans-Regular;
+    --fontfamily-OpenSans-SemiBold: OpenSans-SemiBold;
+}
